@@ -35,7 +35,7 @@ public class HelicopterFlight : MonoBehaviour
         currentAmmo = maxAmmo;
         selectionLight.enabled = false;
         commandLight.enabled = false;
-        currentAmmo = maxAmmo;
+        
     }
 
     private void Update()
